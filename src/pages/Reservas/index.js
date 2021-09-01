@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default function App() {
+export default function Reservas() {
  return (
    <div>
-     <h1>Olá</h1>
+     <h1>Reservas</h1>
    </div>
  );
 }
